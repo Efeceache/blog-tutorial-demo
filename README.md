@@ -16,3 +16,5 @@ Checkpoints:
 Extension:
 You can also see a guided walkthrough in Astro Docs to [convert this project to use content collections](https://docs.astro.build/en/guides/content-collections/#migrating-from-file-based-routing).
 - [Completed project branch using Content Collections](https://github.com/withastro/blog-tutorial-demo/tree/content-collections).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ebeb7811-dabb-4fe3-b7e0-c0475678a15e/deploy-status)](https://app.netlify.com/sites/lucent-jalebi-deaa7c/deploys)
